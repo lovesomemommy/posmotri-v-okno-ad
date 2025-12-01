@@ -1,4 +1,4 @@
-# H1 posmotri-v-okno-ad
+# posmotri-v-okno-ad
 
 **Описание проекта**
 
