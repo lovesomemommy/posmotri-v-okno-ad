@@ -48,5 +48,5 @@ focus-visible
 Проект не требует сборщиков, библиотек или серверной части.
 
 **Установка**
-git clone <https://github.com/lovesomemommy/posmotri-v-okno-ad>
+Склонировать командой git clone
 Открыть файл index.html в браузере — проект работает полностью локально.
